@@ -1,4 +1,4 @@
-# SOC_log_alert
+# SOC_log_parser
 
 A basic Python tool designed for Security Operations Center (SOC) analysts to parse and analyze authentication logs for suspicious activity.
 
@@ -21,4 +21,4 @@ A basic Python tool designed for Security Operations Center (SOC) analysts to pa
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Edwardnabulele/SOC_log_alert.git
-cd SOC_log_alert
+cd SOC_log_parser
